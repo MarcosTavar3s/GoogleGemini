@@ -7,7 +7,7 @@ A fluência em um idioma consiste em ser capaz de estabelecer comunicação em u
 ## Importante
 **A execução do projeto de baseia em imagens guardadas em uma variável. Portanto, é estritamente necessário que o usuário deixe as imagens disponibilizadas nesta pasta no mesmo diretório que o programa. Além disso, não se esqueça de colocar sua GOOGLE_API_KEY**
 
-O plano, para o futuro, é fazer com que esses dados sejam coletados por meio das urls e armazenados em um banco de dados.
+O plano, para o futuro, é trazer uma maior quantidade e variedade de imagens, de forma com esses dados sejam coletados por meio de suas respectivas urls e armazenados em um banco de dados.
 
 ## Aplicações e benefícios 
 - Estudo de outros idiomas a partir de uma visão contextualizada
