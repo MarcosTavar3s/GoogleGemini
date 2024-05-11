@@ -10,7 +10,7 @@ A fluência em um idioma consiste em ser capaz de estabelecer comunicação em u
 O plano, para o futuro, é trazer uma maior quantidade e variedade de imagens, de forma com esses dados sejam coletados por meio de suas respectivas urls e armazenados em um banco de dados.
 
 ## Aplicações e benefícios 
-- Estudo de outros idiomas a partir de uma visão contextualizada
-- Possibilidade de aumentar a acessibilidade em sites feitos em vários idiomas
+- Estudo de outros idiomas a partir de uma visão contextualizada.
+- Possibilidade de aumentar a acessibilidade em sites feitos em vários idiomas.
 - Utilização para condicionamento à provas de proficiência, como o DET, o TOEFL, IELTS, etc.
-- Melhora da descrição de imagens e coleta de informações para divulgação de pontos turísticos presentes na imagem
+- Melhora da descrição de imagens e coleta de informações para divulgação de pontos turísticos presentes em imagens.
