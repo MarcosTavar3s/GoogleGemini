@@ -5,7 +5,7 @@ O código da presente foi desenvolvido por Marcos Aurélio Tavares Filho.
 A fluência em um idioma consiste em ser capaz de estabelecer comunicação em uma diversidade de situações comunicativas. Diante disso e da presença da inteligência artificial multimodal do Google, o Gemini, o projeto recebe um idioma do usuário, mostra uma imagem e pede para descrevê-la. Após isso, o programa analisa o texto com base em uma descrição gerada pela própria LLM da Google e dá sugestões de como o usuário pode melhorar a sua escrita no outro idioma, tanto semanticamente quanto gramaticalmente.
 
 ## Importante
-**A execução do projeto de baseia em imagens guardadas em uma variável. Portanto, é estritamente necessário que o usuário deixe as imagens disponibilizadas nesta pasta no mesmo diretório que o programa.**
+**A execução do projeto de baseia em imagens guardadas em uma variável. Portanto, é estritamente necessário que o usuário deixe as imagens disponibilizadas nesta pasta no mesmo diretório que o programa. Além disso, não se esqueça de colocar sua GOOGLE_API_KEY**
 
 O plano, para o futuro, é fazer com que esses dados sejam coletados por meio das urls e armazenados em um banco de dados.
 
